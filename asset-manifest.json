@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codeclanportfolio/static/css/main.3c1f1e91.css",
+    "main.js": "/codeclanportfolio/static/js/main.c01fdaa0.js",
+    "static/js/787.53463533.chunk.js": "/codeclanportfolio/static/js/787.53463533.chunk.js",
+    "index.html": "/codeclanportfolio/index.html",
+    "main.3c1f1e91.css.map": "/codeclanportfolio/static/css/main.3c1f1e91.css.map",
+    "main.c01fdaa0.js.map": "/codeclanportfolio/static/js/main.c01fdaa0.js.map",
+    "787.53463533.chunk.js.map": "/codeclanportfolio/static/js/787.53463533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1f1e91.css",
+    "static/js/main.c01fdaa0.js"
+  ]
+}
