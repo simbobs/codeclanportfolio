@@ -6,12 +6,14 @@ import './App.css';
 function App() {
 
   return (
+    <>
+    <Home />
     <Router>
       <Routes>
-            <Route path exact="/codeclanportfolio" element={<Home />} />
             <Route path="*" element={<h1>Oooops, not quite made it this far yet!</h1>} />
       </Routes>
     </Router>
+    </>
 
   
   );
