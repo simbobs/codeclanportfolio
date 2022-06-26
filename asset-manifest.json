@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/codeclanportfolio/static/css/main.3c1f1e91.css",
-    "main.js": "/codeclanportfolio/static/js/main.5a137b3d.js",
+    "main.js": "/codeclanportfolio/static/js/main.c28c7c22.js",
     "static/js/787.53463533.chunk.js": "/codeclanportfolio/static/js/787.53463533.chunk.js",
     "index.html": "/codeclanportfolio/index.html",
     "main.3c1f1e91.css.map": "/codeclanportfolio/static/css/main.3c1f1e91.css.map",
-    "main.5a137b3d.js.map": "/codeclanportfolio/static/js/main.5a137b3d.js.map",
+    "main.c28c7c22.js.map": "/codeclanportfolio/static/js/main.c28c7c22.js.map",
     "787.53463533.chunk.js.map": "/codeclanportfolio/static/js/787.53463533.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c1f1e91.css",
-    "static/js/main.5a137b3d.js"
+    "static/js/main.c28c7c22.js"
   ]
 }
