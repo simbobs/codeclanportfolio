@@ -1,6 +1,8 @@
 import React from 'react';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Home from './components/Home';
+import ProjectContainer from './containers/ProjectContainer';
+import Error from './components/Error';
 import './App.css';
 
 function App() {
@@ -11,7 +13,8 @@ function App() {
     <Router>
       <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="*" element={<h1>Oooops, not quite made it this far yet!</h1>} />
+            <Route path="/projects" element={<ProjectContainer/>} />
+            <Route path="*" element={<Error />} />
       </Routes>
     </Router>
     </>
