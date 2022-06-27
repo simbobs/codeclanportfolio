@@ -12,7 +12,7 @@ function App() {
     
     <Router>
       <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/codeclanportfolio" element={<Home />} />
             <Route path="/projects" element={<ProjectContainer/>} />
             <Route path="*" element={<Error />} />
       </Routes>
